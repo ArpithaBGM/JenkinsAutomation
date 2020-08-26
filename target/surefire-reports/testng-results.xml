@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="17340" started-at="2020-08-26T05:52:09Z" finished-at="2020-08-26T05:52:26Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="17340" started-at="2020-08-26T05:52:09Z" finished-at="2020-08-26T05:52:26Z">
+      <class name="com.Project.Main.LoginPage">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.Project.Main.LoginPage@657c8ad9]" name="beforeClass" is-config="true" duration-ms="6251" started-at="2020-08-26T11:22:09Z" finished-at="2020-08-26T11:22:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="browser()[pri:0, instance:com.Project.Main.LoginPage@657c8ad9]" name="browser" is-config="true" duration-ms="3542" started-at="2020-08-26T11:22:15Z" finished-at="2020-08-26T11:22:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:com.Project.Main.LoginPage@657c8ad9]" name="login" duration-ms="950" started-at="2020-08-26T11:22:19Z" data-provider="data" finished-at="2020-08-26T11:22:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="browser()[pri:0, instance:com.Project.Main.LoginPage@657c8ad9]" name="browser" is-config="true" duration-ms="276" started-at="2020-08-26T11:22:20Z" finished-at="2020-08-26T11:22:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:com.Project.Main.LoginPage@657c8ad9]" name="login" duration-ms="1034" started-at="2020-08-26T11:22:20Z" data-provider="data" finished-at="2020-08-26T11:22:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[demo]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[demo]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="browser()[pri:0, instance:com.Project.Main.LoginPage@657c8ad9]" name="browser" is-config="true" duration-ms="671" started-at="2020-08-26T11:22:21Z" finished-at="2020-08-26T11:22:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:com.Project.Main.LoginPage@657c8ad9]" name="login" duration-ms="992" started-at="2020-08-26T11:22:21Z" data-provider="data" finished-at="2020-08-26T11:22:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[devqa]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[devqa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="browser()[pri:0, instance:com.Project.Main.LoginPage@657c8ad9]" name="browser" is-config="true" duration-ms="1652" started-at="2020-08-26T11:22:22Z" finished-at="2020-08-26T11:22:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method status="PASS" signature="signUp()[pri:0, instance:com.Project.Main.LoginPage@657c8ad9]" name="signUp" duration-ms="1016" started-at="2020-08-26T11:22:24Z" finished-at="2020-08-26T11:22:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUp -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.Project.Main.LoginPage@657c8ad9]" name="afterClass" is-config="true" duration-ms="896" started-at="2020-08-26T11:22:25Z" finished-at="2020-08-26T11:22:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.Project.Main.LoginPage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
