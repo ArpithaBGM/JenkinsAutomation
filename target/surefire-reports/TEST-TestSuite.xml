@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="20.657" tests="4" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="29.472" tests="4" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -19,7 +19,7 @@
     <property name="user.country" value="IN"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_261\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\arpit\AppData\Local\Temp\surefire4345956249682110731\surefirebooter7406026045857577980.jar C:\Users\arpit\AppData\Local\Temp\surefire4345956249682110731 2020-08-27T16-40-48_901-jvmRun1 surefire6010386414388777018tmp surefire_06083309403195472979tmp"/>
+    <property name="sun.java.command" value="C:\Users\arpit\AppData\Local\Temp\surefire6107632998484435468\surefirebooter121752491386419827.jar C:\Users\arpit\AppData\Local\Temp\surefire6107632998484435468 2020-08-27T16-57-06_555-jvmRun1 surefire5029986085298721940tmp surefire_02223481298692641434tmp"/>
     <property name="surefire.test.class.path" value="D:\Eclipse\Framework-master\Framework_Practise\target\test-classes;D:\Eclipse\Framework-master\Framework_Practise\target\classes;C:\Users\arpit\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Users\arpit\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\arpit\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\arpit\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Users\arpit\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Users\arpit\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Users\arpit\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Users\arpit\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\arpit\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Users\arpit\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\arpit\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\arpit\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\arpit\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar;C:\Users\arpit\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar;C:\Users\arpit\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar;C:\Users\arpit\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar;C:\Users\arpit\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Users\arpit\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar;C:\Users\arpit\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\arpit\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\arpit\.m2\repository\org\testng\testng\6.11\testng-6.11.jar;C:\Users\arpit\.m2\repository\com\beust\jcommander\1.64\jcommander-1.64.jar;C:\Users\arpit\.m2\repository\org\yaml\snakeyaml\1.17\snakeyaml-1.17.jar;C:\Users\arpit\.m2\repository\org\apache\logging\log4j\log4j-api\2.13.3\log4j-api-2.13.3.jar;C:\Users\arpit\.m2\repository\junit\junit\4.13\junit-4.13.jar;C:\Users\arpit\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\arpit\.m2\repository\org\apache\ant\ant-junit\1.10.8\ant-junit-1.10.8.jar;C:\Users\arpit\.m2\repository\org\apache\ant\ant\1.7.0\ant-1.7.0.jar;C:\Users\arpit\.m2\repository\org\apache\ant\ant-launcher\1.7.0\ant-launcher-1.7.0.jar;C:\Program Files\Java\jdk1.8.0_261\lib\tools.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\arpit"/>
@@ -32,7 +32,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\arpit\AppData\Local\Temp\surefire4345956249682110731\surefirebooter7406026045857577980.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\arpit\AppData\Local\Temp\surefire6107632998484435468\surefirebooter121752491386419827.jar"/>
     <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_261\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_261\jre\classes"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -61,18 +61,18 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="52.0"/>
   </properties>
-  <testcase name="login[admin, admin](1)" classname="com.Project.Main.LoginPage" time="0.873">
+  <testcase name="login[admin, admin](1)" classname="com.Project.Main.LoginPage" time="1.636">
     <system-out><![CDATA[[TestNGContentHandler] [WARN] It is strongly recommended to add "<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >" at the top of your file, otherwise TestNG may fail or not work as expected.
 ]]></system-out>
-    <system-err><![CDATA[Starting ChromeDriver 84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}) on port 13150
+    <system-err><![CDATA[Starting ChromeDriver 84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}) on port 36313
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-Aug 27, 2020 4:40:58 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+Aug 27, 2020 4:57:24 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
 ]]></system-err>
   </testcase>
-  <testcase name="login[demo, demo](2)" classname="com.Project.Main.LoginPage" time="0.969"/>
-  <testcase name="login[devqa, devqa](3)" classname="com.Project.Main.LoginPage" time="0.986"/>
-  <testcase name="signUp" classname="com.Project.Main.LoginPage" time="1.043"/>
+  <testcase name="login[demo, demo](2)" classname="com.Project.Main.LoginPage" time="1.254"/>
+  <testcase name="login[devqa, devqa](3)" classname="com.Project.Main.LoginPage" time="1.209"/>
+  <testcase name="signUp" classname="com.Project.Main.LoginPage" time="1.25"/>
 </testsuite>
